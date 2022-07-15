@@ -1,0 +1,32 @@
+.head{
+    color: rgb(7, 0, 0)
+}
+
+div {
+    line-height: 1.8em;
+    background: aquamarine;
+    text-align: center;
+    border-style: solid;
+    padding: 35px
+}
+
+.second{
+    background: rgb(0, 0, 0);
+    color: aquamarine;
+    text-align: center;
+}
+
+.Panda {
+    text-align: center;
+}
+
+.Projects {
+    background: rgb(0, 0, 0);
+    color: aquamarine;
+    text-align: left;
+}
+.Contact {
+    background: rgb(35, 138, 179)
+    color: black;
+    text-align: center;
+}
